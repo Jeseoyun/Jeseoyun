@@ -69,15 +69,17 @@
   
 ## 🧱 Tech Stack
 ### Language
+<p>
 <!--Python-->
 <img src="https://img.shields.io/badge/Python%20IDLE-3776AB?logo=python&logoColor=fff"/>
 <!--MySQL-->
 <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff"/>
 <!--Java-->
 <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=fff"/>
-<br/>
+</p>
   
 ### AI / Data Science
+<p>
 <!--PyTorch-->
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?&logo=PyTorch&logoColor=white"/>
 <!--TensorFlow-->
@@ -90,15 +92,18 @@
 <img src="https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff"/>
 <!--Langchain-->
 <img src="https://img.shields.io/badge/Langchain-000000?logo=langchain&logoColor=fff"/>
-<br/>
+</p>
   
 ### CI/CD
+<p>
 <!--Docker-->
 <img src="https://img.shields.io/badge/docker-2496ED?&logo=docker&logoColor=white"/>
 <!--GitLab CI-->
 <img src="https://img.shields.io/badge/GitLab%20CI-FC6D26?logo=gitlab&logoColor=fff"/>
+</p>
 
 ### Backend
+<p>
 <!--FastAPI-->
 <img src="https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white"/>
 <!--Flask-->
@@ -107,10 +112,10 @@
 <img src="https://img.shields.io/badge/Django-092E20?&logo=Django&logoColor=white"/>
 <!--SpringBoot-->
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?logo=springboot&logoColor=white"/>
-<br/>
-  
+</p>  
 
 ### Tools
+<p>
 <!--git-->
 <img src="https://img.shields.io/badge/git-F05032?&logo=git&logoColor=white"/>
 <!--github-->
@@ -121,4 +126,4 @@
 <img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white"/>
 <!--notion-->
 <img src="https://img.shields.io/badge/notion-000000?&logo=notion&logoColor=white"/>
-<br/>
+</p>
